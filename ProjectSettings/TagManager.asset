@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bus
+  - Stop
+  - ZebraCross
+  - Trotoar
+  - WinCheck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Limit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background2
+    uniqueID: 775961031
+    locked: 0
+  - name: Background
+    uniqueID: 4154513713
+    locked: 0
+  - name: Player
+    uniqueID: 2231021123
+    locked: 0
+  - name: Bus
+    uniqueID: 6954153
+    locked: 0
+  - name: UI
+    uniqueID: 1618667597
+    locked: 0
+  - name: Dirt
+    uniqueID: 2521851601
+    locked: 0
+  - name: Wiper
+    uniqueID: 3490391725
+    locked: 0
